@@ -1,0 +1,52 @@
+
+# Kota Shop with Car Wash Details
+
+## Shop Name
+- **Name:** Kota & Shine
+
+## Concept
+- A vibrant kota shop offering delicious kota meals, a car wash service, and a lively atmosphere perfect for enjoying shisa nyama and alcoholic beverages.
+
+## Menu Items
+1. **Classic Kota**
+   - Description: A quarter loaf filled with your choice of meat (beef, chicken, or boerewors), chips, and a spicy sauce.
+   - Price: $5.99
+
+2. **Cheesy Kota**
+   - Description: A quarter loaf stuffed with cheese, grilled meat, and topped with jalapeños and salsa.
+   - Price: $6.49
+
+3. **Vegetarian Kota**
+   - Description: A quarter loaf filled with grilled vegetables, cheese, and a tangy sauce.
+   - Price: $5.49
+
+4. **Shisa Nyama Platter**
+   - Description: A selection of grilled meats served with pap, chakalaka, and a side of kota.
+   - Price: $12.99
+
+5. **Kota Combo**
+   - Description: Any kota with a side of chips and a drink.
+   - Price: $8.99
+
+## Alcoholic Beverages
+- **Local Beers** - $3.00
+- **Ciders** - $4.00
+- **Cocktails** - $6.00 (flavors: Mango Mojito, Strawberry Daiquiri)
+
+## Car Wash Services
+- **Basic Wash** - $10.00
+- **Full Detail** - $30.00 (includes interior cleaning, waxing, and tire shine)
+- **Express Wash** - $5.00 (quick exterior wash)
+
+## Special Offers
+- **Kota & Car Wash Combo:** Get a free drink with any kota purchase when you use our car wash service.
+- **Happy Hour:** Buy one alcoholic beverage, get the second half off from 4 PM to 6 PM.
+
+## Contact Information
+- **Phone:** (987) 654-3210
+- **Email:** info@kotashine.com
+- **Address:** 456 Kota Street, Grill Town, GT 67890
+
+## Social Media
+- **Instagram:** [@kotashine](https://instagram.com/kotashine)
+- **Facebook:** [Kota & Shine](https://facebook.com/kotashine)
